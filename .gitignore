@@ -1,0 +1,12 @@
+.config
+
+**/build
+
+# VS Code Settings
+.vscode/
+
+# managed_components for examples
+managed_components
+
+# lock files for examples and components
+dependencies.lock
